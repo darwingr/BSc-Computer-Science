@@ -1,0 +1,27 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+# MPI - Message Passing Interface
+#   brew edit to remove gcc dependency
+brew "open-mpi"
+# Failed on mbp, may need to delete following unneeded packages:
+# gcc gmp isl mpfr libmpc
+
+
+# OpenMP - Open Multi-Processing
+#   Compiler extension for shared memory multiprocessor programs written
+#   in C, C++ and Fortran.
+brew "libomp" # LLVM's OpenMP runtime library
+# originally: https://github.com/CLIUtils/homebrew-apple
+# Should be immediately includable in source files simply as <omp.h>
+# May require these compiler flags with Apple Clang:
+#     -Xpreprocessor -fopenmp -lomp
+
+# GCC?
+#   https://stackoverflow.com/questions/35134681/installing-openmp-on-mac-os-x-10-11#35417448
+
+
+
+
+# Scalasca & Cube
+#   see scalasca.org for visual profiling software with OpenMP and MPI.

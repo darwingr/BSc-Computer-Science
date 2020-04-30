@@ -1,0 +1,4 @@
+parallel program results with 4 processes and 400,000,000 steps:
+computed pi = 3.14159  (3.141592653589927)
+difference between computed pi and math.h M_PI = 0.000000000000134 (1.34e-13)
+time to compute = 0.396162 seconds

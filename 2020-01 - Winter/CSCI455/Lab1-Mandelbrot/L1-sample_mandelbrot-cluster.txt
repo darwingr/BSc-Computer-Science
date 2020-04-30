@@ -1,0 +1,31 @@
+ubuntu@ip-172-31-43-252:~/csci455/Lab1-Mandelbrot$ make sample_mandelbrot 
+Platform: Linux (96 cpu cores recognized)
+for nodeprocs in 2 4 8 12 16 24 ; do \
+	echo "\nMPIRUN mandelbrot_parallel with $nodeprocs node processes:" ; \
+	mpirun --use-hwthread-cpus -np $nodeprocs  ./mandelbrot_parallel ./image-$nodeprocs.ppm ; \
+done
+
+MPIRUN mandelbrot_parallel with 2 node processes:
+Time elapsed during calculation: 73.5165 secs.
+Time elapsed total: 74.1561 secs 
+
+MPIRUN mandelbrot_parallel with 4 node processes:
+Time elapsed during calculation: 22.448 secs.
+Time elapsed total: 23.0629 secs 
+
+MPIRUN mandelbrot_parallel with 8 node processes:
+Time elapsed during calculation: 10.07 secs.
+Time elapsed total: 10.7105 secs 
+
+MPIRUN mandelbrot_parallel with 12 node processes:
+Time elapsed during calculation: 6.53995 secs.
+Time elapsed total: 7.19503 secs 
+
+MPIRUN mandelbrot_parallel with 16 node processes:
+Time elapsed during calculation: 4.8003 secs.
+Time elapsed total: 5.45317 secs 
+
+MPIRUN mandelbrot_parallel with 24 node processes:
+Time elapsed during calculation: 3.139 secs.
+Time elapsed total: 3.79641 secs 
+ubuntu@ip-172-31-43-252:~/csci455/Lab1-Mandelbrot$ 

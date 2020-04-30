@@ -1,0 +1,60 @@
+{
+  "entries": {
+    "brew": {
+      "open-mpi": {
+        "version": "4.0.3",
+        "bottle": {
+          "cellar": "/usr/local/Cellar",
+          "prefix": "/usr/local",
+          "files": {
+            "catalina": {
+              "url": "https://homebrew.bintray.com/bottles/open-mpi-4.0.3.catalina.bottle.tar.gz",
+              "sha256": "3b143cf02a5345bb0d4df0777d3a34f806ff7fb66dc5d21993b8c4f218722ac7"
+            },
+            "mojave": {
+              "url": "https://homebrew.bintray.com/bottles/open-mpi-4.0.3.mojave.bottle.tar.gz",
+              "sha256": "1600986b4774f6081191fe616cc70690d0174c4a32f4d7f280285ddc39970437"
+            },
+            "high_sierra": {
+              "url": "https://homebrew.bintray.com/bottles/open-mpi-4.0.3.high_sierra.bottle.tar.gz",
+              "sha256": "71df1f5047b812b68f8b28f7a6c713f42389691b2269408c8d839f1922ab9e5c"
+            }
+          }
+        }
+      },
+      "libomp": {
+        "version": "10.0.0",
+        "bottle": {
+          "cellar": ":any",
+          "prefix": "/usr/local",
+          "files": {
+            "catalina": {
+              "url": "https://homebrew.bintray.com/bottles/libomp-10.0.0.catalina.bottle.tar.gz",
+              "sha256": "0ea757dbea7bf12141ef1d209d2f3b59919baa0caa0482d7ea6ae9c2dfed2382"
+            },
+            "mojave": {
+              "url": "https://homebrew.bintray.com/bottles/libomp-10.0.0.mojave.bottle.tar.gz",
+              "sha256": "aecd306b605763dbd06c73b5d470c924643b48c051f06d8a4e70be705052c8ee"
+            },
+            "high_sierra": {
+              "url": "https://homebrew.bintray.com/bottles/libomp-10.0.0.high_sierra.bottle.tar.gz",
+              "sha256": "ddfbe1ab7c6dafc45c787d6b4ae19fffb6465bbc0aef007b728cb98ba0d6d2b1"
+            }
+          }
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "el_capitan": {
+        "HOMEBREW_VERSION": "2.2.15-18-g61b98a5",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "cb163da7f4d59dd5634ea41bddf1b5aa2dac90f1",
+        "CLT": "8.2.0.0.1.1480973914",
+        "Xcode": "8.2.1",
+        "macOS": "10.11.6"
+      }
+    }
+  }
+}
