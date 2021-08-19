@@ -1,0 +1,26 @@
+bool W[10][10] = {
+0 { false, true,  false, false, true,  true,  false, false, false, false },
+1 { true,  false, true,  false, false, false, true,  false, false, false },
+2 { false, true,  false, true,  false, false, false, true,  false, false },
+3 { false, false, true,  false, true,  false, false, false, true,  false },
+4 { true,  false, false, true,  false, false, false, false, false, true  },
+5 { true,  false, false, false, false, false, false, true,  true,  false },
+6 { false, true,  false, false, false, false, false, false, true,  true  },
+7 { false, false, true,  false, false, true,  false, false, false, true  },
+8 { false, false, false, true,  false, true,  true,  false, false, false },
+9 { false, false, false, false, true,  false, true,  true,  false, false }
+};
+
+
+int W[10][10] = {
+ { 0, 1, 0, 0, 1, 1, 0, 0, 0, 0 },
+ { 1, 0, 1, 0, 0, 0, 1, 0, 0, 0 },
+ { 0, 1, 0, 1, 0, 0, 0, 1, 0, 0 },
+ { 0, 0, 1, 0, 1, 0, 0, 0, 1, 0 },
+ { 1, 0, 0, 1, 0, 0, 0, 0, 0, 1 },
+ { 1, 0, 0, 0, 0, 0, 0, 1, 1, 0 },
+ { 0, 1, 0, 0, 0, 0, 0, 0, 1, 1 },
+ { 0, 0, 1, 0, 0, 1, 0, 0, 0, 1 },
+ { 0, 0, 0, 1, 0, 1, 1, 0, 0, 0 },
+ { 0, 0, 0, 0, 1, 0, 1, 1, 0, 0 }
+};
