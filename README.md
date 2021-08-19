@@ -1,6 +1,6 @@
 # Introduction
 Contained in this repository is a selection of my completed work from classroom
-assignments and lab submissions of as part of my bachelor's degree in computer
+assignments and lab submissions as part of my bachelor's degree in computer
 science at [St. Francis Xavier University](https://www.stfx.ca). I've documented
 this as a record of work and knowledge during my years at University(2017–2020),
 which is valuable in the place of a record of employment in software for that
@@ -16,7 +16,7 @@ time.
 
 
 # Courses
-| Course code | Name | Folder | Languages & Libraries |
+| Course Code | Name | Folder | Languages & Libraries |
 | ----------- | ---- | ------ | --------------------- |
 | CSCI 455 | Parallel and Distributed Computing     | [Winter 2020](2020-01%20-%20Winter/CSCI455/)           | C++, OpenMP, MPI, Make
 | CSCI 355 | Data Structures and Algorithm Analysis | [Winter 2019](2019-01%20-%20Winter/CSCI%20355/")       | C++, Make
