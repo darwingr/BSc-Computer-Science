@@ -1,3 +1,5 @@
+# Also see .git/info/exclude
+#   for other ignored files
 **/bin/
 **/build/
 **/given/
@@ -8,7 +10,9 @@
 **/Lectures/
 **/*final*
 **/*exam*
+**/*.dSYM/
 
+*.bkp
 *.docx
 *.html
 .ycm_extra_conf.py
@@ -16,9 +20,20 @@
 .gutctags
 
 2020-01 - Winter/CSCI455/cluster-output/
+2020-01 - Winter/CSCI455/Lab10-11-Project_3_Matrix_Multiplication/
 
 2019-01 - Winter/CSCI 355/Assig01/
 2019-01 - Winter/CSCI 355/Assig02/
 2019-01 - Winter/CSCI 355/Assig03/
 2019-01 - Winter/CSCI 355/Assig04/
 2019-01 - Winter/CSCI 355/Assig05/
+
+2019-09 - Fall/CSCI255-Fall2019/assig1-mystring/
+2019-09 - Fall/CSCI255-Fall2019/CSCI 255-Handins/Assign1-HANDIN.pdf
+2019-09 - Fall/CSCI255-Fall2019/CSCI 255-Handins/Assign2-HANDIN.pdf
+2019-09 - Fall/CSCI255-Fall2019/CSCI 255-Handins/Assign3-HANDIN.pdf
+2019-09 - Fall/CSCI255-Fall2019/CSCI 255-Handins/Assign4-HANDIN.pdf
+
+
+2019-09 - Fall/CSCI255-Fall2019/Lab5-BST Recursion/reverse
+2019-09 - Fall/CSCI255-Fall2019/Lab3-Linked Lists/lab3
