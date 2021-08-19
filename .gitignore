@@ -1,6 +1,24 @@
-bin/*
-build/*
-given
-given/**/*
-tmp
-vendor
+**/bin/
+**/build/
+**/given/
+**/tmp/
+**/temp/
+**/vendor/
+**/_minted*/
+**/Lectures/
+**/*final*
+**/*exam*
+
+*.docx
+*.html
+.ycm_extra_conf.py
+.vimrc
+.gutctags
+
+2020-01 - Winter/CSCI455/cluster-output/
+
+2019-01 - Winter/CSCI 355/Assig01/
+2019-01 - Winter/CSCI 355/Assig02/
+2019-01 - Winter/CSCI 355/Assig03/
+2019-01 - Winter/CSCI 355/Assig04/
+2019-01 - Winter/CSCI 355/Assig05/
