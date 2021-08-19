@@ -1,0 +1,20 @@
+1123 John T. Smith  $   28.28
+1456 Daniel Smith   $  245.83
+2416 Shannon Ross   $ 1248.34
+2468 Betty White    $ 1928.24
+2832 Timothy Adams  $  284.10
+3893 Barney Kent    $   29.99
+4444 Steve Burns    $ 5837.29
+5426 Melissa Black  $ 3847.47
+5555 Fred G. Jones  $    0.00
+6239 R. Pat Turner  $ 9284.84
+6543 Patrick Riley  $ 4873.13
+6847 Patrick Blair  $  384.82
+6983 Henry Presley  $ 9888.76
+7654 Tom T. Peters  $    4.67
+7736 Sara Wilson    $ 1920.00
+8762 Julie Anderson $ 2884.23
+8764 Jessica Stone  $   43.50
+8975 Lisa Gregory   $ 1938.83
+9324 Andrew York    $ 9352.49
+9876 Jane Grant     $ 1837.45

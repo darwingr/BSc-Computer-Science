@@ -1,0 +1,37 @@
+appname:=bank
+
+CXX=g++
+# -g generate source level debug information
+CXXFLAGS=-g -Wall
+# C pre-processor flags
+#CPPFLAGS=-g $(shell root-config --cflags)
+#LDFLAGS=-g $(shell root-config --ldflags)
+#LDLIBS=$(shell root-config --libs)
+
+#SRCS=$(shell find . -name "*.cpp") # don't use this
+SRCS=main.cpp
+OBJS=$(subst .cpp, .o, $(SRCS))
+
+all: $(appname)
+
+$(appname): $(OBJS)
+	$(CXX) $(CXXFLAGS) -o $(appname) $(OBJS)
+#	$(CXX) $(CXXFLAGS) $(LDFLAGS) -o $(appname) $(OBJS) $(LDLIBS)
+
+depend: .depend
+
+.depend: $(SRCS)
+	rm -f ./.depend
+	#rm -f .depend
+	$(CXX) $(CXXFLAGS) -MM $^>>./.depend;
+	#$(CXX) $(CXXFLAGS) -MM $^>>.depend;
+
+.PHONY: clean
+
+clean:
+	rm -f *.o
+
+distclean: clean
+	rm -f *~ .depend
+
+include .depend

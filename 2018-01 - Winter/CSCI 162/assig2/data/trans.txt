@@ -1,0 +1,27 @@
+1123 Cheque     $  -30.00
+1123 Deposit    $    2.00
+1123 Payroll    $ 1213.45
+1123 Withdrawl  $ -500.00
+1123 Cheque     $ -800.00
+1123 No Bk Dep  $  200.00
+2416 Deposit    $  389.89
+2416 Withdrawl  $ -389.89
+2832 Payroll    $ 9321.87
+2832 Deposit    $ 1000.30
+2832 Cheque     $-8000.00
+3893 Deposit    $ 1000.83
+3893 ABM WD     $ -400.00
+5426 Interest   $   22.45
+6239 Payroll    $  945.28
+6543 Transfer   $ 5000.00
+6543 Cheque     $ -900.00
+6543 Payroll    $ 2246.65
+6983 Transfer   $-2500.00
+6983 Tranfer    $-7500.00
+6983 No Bk Dep  $  457.23
+7654 ABM WD     $  -20.00
+7736 Payroll    $ 8073.28
+8762 Bill Pmt   $-1200.00
+8764 Bill Pmt   $   -3.50
+8764 Cheque     $  -40.00
+9324 Transfer   $-9352.49

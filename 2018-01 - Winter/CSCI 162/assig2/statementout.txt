@@ -1,0 +1,292 @@
+           First Antigonish Bank
+
+Statement for  John T. Smith  
+Customer Number 1123
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                           28.28
+
+ Cheque                          30.00      -1.72
+ Overdraft                        5.00      -6.72
+ Deposit              2.00                  -4.72
+ Overdraft                        5.00      -9.72
+ Payroll           1213.45                1203.73
+ Withdrawl                      500.00     703.73
+ Cheque                         800.00     -96.27
+ Overdraft                        5.00    -101.27
+ No Bk Dep          200.00                  98.73
+
+Final Balance:                              98.73
+
+
+           First Antigonish Bank
+
+Statement for  Daniel Smith   
+Customer Number 1456
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                          245.83
+
+
+Final Balance:                             245.83
+
+
+           First Antigonish Bank
+
+Statement for  Shannon Ross   
+Customer Number 2416
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                         1248.34
+
+ Deposit            389.89                1638.23
+ Withdrawl                      388.11    1250.12
+
+Final Balance:                            1250.12
+
+
+           First Antigonish Bank
+
+Statement for  Betty White    
+Customer Number 2468
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                         1928.24
+
+
+Final Balance:                            1928.24
+
+
+           First Antigonish Bank
+
+Statement for  Timothy Adams  
+Customer Number 2832
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                          284.10
+
+ Payroll           9321.87                9605.97
+ Deposit           1000.30               10606.27
+ Cheque                        8000.00    2606.27
+
+Final Balance:                            2606.27
+
+
+           First Antigonish Bank
+
+Statement for  Barney Kent    
+Customer Number 3893
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                           29.99
+
+ Deposit           1000.83                1030.82
+ ABM WD                         400.00     630.82
+
+Final Balance:                             630.82
+
+
+           First Antigonish Bank
+
+Statement for  Steve Burns    
+Customer Number 4444
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                         5837.29
+
+
+Final Balance:                            5837.29
+
+
+           First Antigonish Bank
+
+Statement for  Melissa Black  
+Customer Number 5426
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                         3847.47
+
+ Interest            22.45                3869.92
+
+Final Balance:                            3869.92
+
+
+           First Antigonish Bank
+
+Statement for  Fred G. Jones  
+Customer Number 5555
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                            0.00
+
+
+Final Balance:                               0.00
+
+
+           First Antigonish Bank
+
+Statement for  R. Pat Turner  
+Customer Number 6239
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                         9284.84
+
+ Payroll            945.28               10230.12
+
+Final Balance:                           10230.12
+
+
+           First Antigonish Bank
+
+Statement for  Patrick Riley  
+Customer Number 6543
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                         4873.13
+
+ Transfer          5000.00                9873.13
+ Cheque                         900.00    8973.13
+ Payroll           2246.65               11219.78
+
+Final Balance:                           11219.78
+
+
+           First Antigonish Bank
+
+Statement for  Patrick Blair  
+Customer Number 6847
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                          384.82
+
+
+Final Balance:                             384.82
+
+
+           First Antigonish Bank
+
+Statement for  Henry Presley  
+Customer Number 6983
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                         9888.76
+
+ Transfer                      2500.00    7388.76
+ Tranfer                       7500.00    -111.24
+ Overdraft                        5.00    -116.24
+ No Bk Dep          457.23                 340.99
+
+Final Balance:                             340.99
+
+
+           First Antigonish Bank
+
+Statement for  Tom T. Peters  
+Customer Number 7654
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                            4.67
+
+ ABM WD                          20.00     -15.33
+ Overdraft                        5.00     -20.33
+
+Final Balance:                             -20.33
+
+
+           First Antigonish Bank
+
+Statement for  Sara Wilson    
+Customer Number 7736
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                         1920.00
+
+ Payroll           8073.28                9993.28
+
+Final Balance:                            9993.28
+
+
+           First Antigonish Bank
+
+Statement for  Julie Anderson 
+Customer Number 8762
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                         2884.23
+
+ Bill Pmt                      1200.00    1684.23
+
+Final Balance:                            1684.23
+
+
+           First Antigonish Bank
+
+Statement for  Jessica Stone  
+Customer Number 8764
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                           43.50
+
+ Bill Pmt                         2.50      41.00
+ Cheque                          40.00       1.00
+
+Final Balance:                               1.00
+
+
+           First Antigonish Bank
+
+Statement for  Lisa Gregory   
+Customer Number 8975
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                         1938.83
+
+
+Final Balance:                            1938.83
+
+
+           First Antigonish Bank
+
+Statement for  Andrew York    
+Customer Number 9324
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                         9352.49
+
+ Transfer                      9351.51       0.98
+
+Final Balance:                               0.98
+
+
+           First Antigonish Bank
+
+Statement for  Jane Grant     
+Customer Number 9876
+
+Item               Deposit   Withdrawl    Balance
+-----------        -------   ---------   --------
+Starting Balance:                         1837.45
+
+
+Final Balance:                            1837.45
+
+
