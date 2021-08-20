@@ -1,0 +1,28 @@
+0 1 R
+1a2XR
+1b3YR
+1 7 L
+2b2bR
+2a2aR
+2 4 R
+3a3aR
+3b3bR
+3 5 R
+4a4aR
+4b4bR
+4 6aL
+5a5aR
+5b5bR
+5 5bL
+6a6aL
+6b6bL
+6 6 L
+6X1aR
+6Y1bR
+7a7aL
+7b7bL
+7 8 S
+-1
+a
+8
+-1

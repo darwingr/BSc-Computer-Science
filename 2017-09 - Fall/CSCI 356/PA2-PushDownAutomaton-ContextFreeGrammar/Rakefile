@@ -1,0 +1,26 @@
+# file: Rakefile
+#
+# This file is used to run test tapes
+
+task default: :test_main
+
+input_files = ['matching',
+               'only_ascii',
+               'leading_right0',
+               'missing_left',
+               'mismatch',
+               'missing_right']
+
+test_infiles = Proc.new do |script|
+  puts "Tests for #{script}.rb"
+
+  input_files.each_with_index do |file, i|
+    print "\n#{i+1}. Test with #{file}.tape \n\t"
+    system("cat tapes/#{file}.tape")
+    system("./#{script}.rb < tapes/#{file}.tape")
+  end
+  puts ''
+end
+
+task :test_main { test_infiles.call 'main' }
+task :test_machine { test_infiles.call 'machine' }

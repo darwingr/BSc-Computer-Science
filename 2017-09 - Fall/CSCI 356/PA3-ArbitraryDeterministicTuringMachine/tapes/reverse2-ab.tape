@@ -1,0 +1,43 @@
+0 1 R
+1a2XR
+1b3YR
+1X8XR
+1Y8XR
+1 A L
+2a2aR
+2b2bR
+2 4 L
+2X4XL
+2Y4YL
+3a3aR
+3b3bR
+3 5 L
+3X5XL
+3Y5YL
+4a6XL
+4b7XL
+4X8XR
+4Y8XR
+5a6YL
+5b7YL
+5X8XR
+5Y8YR
+6a6aL
+6b6bL
+6Y1XR
+6X1XR
+7a7aL
+7b7bL
+7X1YR
+7Y1YR
+8X8XR
+8Y8YR
+8 9 L
+9X9aL
+9Y9bL
+9 A S
+-1
+babaaaababa
+A
+-1
+use hexadecimal for states 10 through 15
