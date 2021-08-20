@@ -19,7 +19,7 @@ time.
 | Course Code | Name | Folder | Languages & Libraries |
 | ----------- | ---- | ------ | --------------------- |
 | CSCI 455 | Parallel and Distributed Computing     | [Winter 2020](2020-01%20-%20Winter/CSCI455/)           | C++, OpenMP, MPI, Make
-| CSCI 355 | Data Structures and Algorithm Analysis | [Winter 2019](2019-01%20-%20Winter/CSCI%20355/")       | C++, Make
+| CSCI 355 | Data Structures and Algorithm Analysis | [Winter 2019](2019-01%20-%20Winter/CSCI%20355/)        | C++, Make
 | CSCI 255 | Advanced Data Structures               | [Fall 2019]("2019-09%20-%20Fall/CSCI%20255-Fall2019/") | C++, Make
 | CSCI 263 | Computer Organization and Architecture | [Winter 2018]("2018-01%20-%20Winter/CSCI%20263/")      | Assembly (RISC/MIPS)
 | CSCI 162 | Programming and Data Structures        | [Winter 2018]("2018-01%20-%20Winter/CSCI%20162/")      | C & C++, Make
